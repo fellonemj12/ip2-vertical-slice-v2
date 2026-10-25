@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\bin\Debug\net10.0-windows\Resort Booking (Bill Calculator).exe
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\bin\Debug\net10.0-windows\Resort Booking (Bill Calculator).deps.json
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\bin\Debug\net10.0-windows\Resort Booking (Bill Calculator).runtimeconfig.json
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\bin\Debug\net10.0-windows\Resort Booking (Bill Calculator).dll
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\bin\Debug\net10.0-windows\Resort Booking (Bill Calculator).pdb
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\Resort_Booking__Bill_Calculator_.Form1.resources
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\Resort Booking (Bill Calculator).csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\Resort Booking (Bill Calculator).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\Resort Booking (Bill Calculator).AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\Resort Booking (Bill Calculator).AssemblyInfo.cs
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\Resort Booking (Bill Calculator).csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\Resort Booking (Bill Calculator).dll
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\refint\Resort Booking (Bill Calculator).dll
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\Resort Booking (Bill Calculator).pdb
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\Resort Booking (Bill Calculator).genruntimeconfig.cache
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\ref\Resort Booking (Bill Calculator).dll
+C:\Users\ACER\source\repos\Resort Booking (Bill Calculator)\Resort Booking (Bill Calculator)\obj\Debug\net10.0-windows\Resort B.B031AA66.Up2Date

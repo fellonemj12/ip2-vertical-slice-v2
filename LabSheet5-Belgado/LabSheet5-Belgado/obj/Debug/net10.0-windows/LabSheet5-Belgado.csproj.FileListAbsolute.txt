@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\bin\Debug\net10.0-windows\LabSheet5-Belgado.exe
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\bin\Debug\net10.0-windows\LabSheet5-Belgado.deps.json
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\bin\Debug\net10.0-windows\LabSheet5-Belgado.runtimeconfig.json
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\bin\Debug\net10.0-windows\LabSheet5-Belgado.dll
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\bin\Debug\net10.0-windows\LabSheet5-Belgado.pdb
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\LabSheet5_Belgado.Form1.resources
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\LabSheet5-Belgado.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\LabSheet5-Belgado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\LabSheet5-Belgado.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\LabSheet5-Belgado.AssemblyInfo.cs
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\LabSheet5-Belgado.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\LabSheet5-Belgado.dll
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\refint\LabSheet5-Belgado.dll
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\LabSheet5-Belgado.pdb
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\LabSheet5-Belgado.genruntimeconfig.cache
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\ref\LabSheet5-Belgado.dll
+C:\Users\ACER\source\repos\LabSheet5-Belgado\LabSheet5-Belgado\obj\Debug\net10.0-windows\LabSheet.C6D29F5F.Up2Date

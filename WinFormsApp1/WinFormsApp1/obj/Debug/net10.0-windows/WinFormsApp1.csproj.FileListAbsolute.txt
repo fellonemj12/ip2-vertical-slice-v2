@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.MainForm.resources
+C:\Users\ACER\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\ACER\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache

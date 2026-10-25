@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\bin\Debug\net10.0-windows\XYZPrintingShop.exe
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\bin\Debug\net10.0-windows\XYZPrintingShop.deps.json
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\bin\Debug\net10.0-windows\XYZPrintingShop.runtimeconfig.json
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\bin\Debug\net10.0-windows\XYZPrintingShop.dll
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\bin\Debug\net10.0-windows\XYZPrintingShop.pdb
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\XYZPrintingShop.Form1.resources
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\XYZPrintingShop.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\XYZPrintingShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\XYZPrintingShop.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\XYZPrintingShop.AssemblyInfo.cs
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\XYZPrintingShop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\XYZPrintingShop.dll
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\refint\XYZPrintingShop.dll
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\XYZPrintingShop.pdb
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\XYZPrintingShop.genruntimeconfig.cache
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\ref\XYZPrintingShop.dll
+C:\Users\ACER\source\repos\XYZPrintingShop\XYZPrintingShop\obj\Debug\net10.0-windows\XYZPrint.C8FBEB26.Up2Date

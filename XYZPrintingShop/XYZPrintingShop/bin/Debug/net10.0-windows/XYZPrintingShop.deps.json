@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "XYZPrintingShop/1.0.0": {
+        "runtime": {
+          "XYZPrintingShop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XYZPrintingShop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
