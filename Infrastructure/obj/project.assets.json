@@ -984,7 +984,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "Domain": "1.0.0"
+          "Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "10.0.14"
         },
         "compile": {
           "bin/placeholder/Application.dll": {}
@@ -2935,6 +2936,7 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "Application >= 1.0.0",
+      "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 10.0.14",
       "Microsoft.EntityFrameworkCore.Sqlite >= 10.0.14"
     ]
@@ -2974,6 +2976,9 @@
           "projectReferences": {
             "C:\\Users\\ACER\\source\\repos\\Application\\Application.csproj": {
               "projectPath": "C:\\Users\\ACER\\source\\repos\\Application\\Application.csproj"
+            },
+            "C:\\Users\\ACER\\source\\repos\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\ACER\\source\\repos\\Domain\\Domain.csproj"
             }
           }
         }
